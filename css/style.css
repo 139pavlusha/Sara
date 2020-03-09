@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+.cl h2{
+    color: gray;
+    font-size: 32px;
+}
+
+.cl li {
+    background-color: rgb(221, 221, 221);
+    margin: 10px 30px;
+}
+
+.list {
+    padding: 10px;
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+.list p {
+    font-size: 14px;
+    margin-top: 15px; 
+    margin-left: 10px;
+    color: grey;
+}
+
+.cl h2 {
+    margin-left: 30px; 
+}
